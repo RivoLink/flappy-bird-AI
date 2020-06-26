@@ -10,7 +10,7 @@ LibGDX Part Author: Rivo Link
 
 The AI was able to play Flappy Bird extremely well. It could play the game endlessly without failure, which might be considered "perfect".
 
-![](flappy_bird_AI.gif)
+![](images/flappy-bird-AI.gif)
 
 ## Installation Dependence
 
