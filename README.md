@@ -26,7 +26,7 @@ The AI was able to play Flappy Bird extremely well. It could play the game endle
 
 * Java 7
 * Eclipse IDE
-* 
+
 ### Android
 
 * Java 7
